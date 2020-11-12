@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header nav {
+  scroll-behavior: smooth;
+  justify-content: center;
+  align-items: center;
+}
+header img {
+  filter: invert(1);
+  width: 80px;
+  cursor: pointer;
+}
+section {
+  background-color: white;
+  height: 90vh;
+}
+footer img {
+  width: 80px;
+  filter: invert(1);
+}
